@@ -108,7 +108,7 @@ app.listen(3000, ()=> {
 
 
 //connection
-mongoose.connect('mongodb+srv://fayudhi:w0nderKiD@management-inventory.hlsfgkk.mongodb.net/?retryWrites=true&w=majority')
+mongoose.connect('PC AJA BUAT URINYA ')
 .then(() => {
     console.log('connected to mongodb')
 }).catch((error)=>{
